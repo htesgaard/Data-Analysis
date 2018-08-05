@@ -10,4 +10,4 @@ Reach me on Twitter [@koehrsen_will](https://twitter.com/@koehrsen_will)
 
 ## MAC
 
-[Jupyter Notebook on my MAC](Jupyter Notebook on my MAC.md)
+[Jupyter Notebook on my MAC](./Jupyter Notebook on my MAC.md)
